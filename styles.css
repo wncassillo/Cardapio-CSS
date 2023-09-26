@@ -1,0 +1,68 @@
+.container{
+    background-color: rgb(247, 244, 243);
+    border-radius: 20px;   
+    padding: 200 px;
+    margin: 2px;
+    display:  flex;
+    margin-left: auto;
+    margin-right: auto; 
+    justify-content: space-between;
+}
+
+.body{
+    background-color: rgba(254, 111, 19,255);
+}
+.logo{
+    max-width:140px;
+    max-height:140px;
+    width: auto;
+    height: auto;
+    border-radius: 20px;
+}
+
+.titulo{
+    display: inline-flex;
+}
+
+.info{
+    display: block;
+}
+
+.nome{
+    color:rgb(80, 198, 228);
+    padding-left: 10px;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size:x-large;
+}
+
+.descri{
+    font-size: large;
+    padding-left: 15px;
+}
+
+.preco{
+    font-size:larger;
+    padding-left: 20px;
+    padding-top: 10px;
+    color: green;
+}
+
+
+h2{
+    color: rgb(255, 200, 60);
+}
+
+h1{
+    color: rgb(255, 210, 0);
+    padding-top: 30px;
+    padding-left: 50px;
+}
+
+.produto{
+    max-width:300px;
+    max-height:300px;
+    width: auto;
+    height: auto;
+    border-radius: 20px;
+}
